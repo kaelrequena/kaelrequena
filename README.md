@@ -28,6 +28,13 @@ Eterno explorador do mundo da tecnologia, sempre em busca de aprender algo novo 
     <img align="center" style="margin-bottom:10px" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div>
 
+
+
+
+
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaelrequena/kaelrequena/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaelrequena/kaelrequena/output/github-contribution-grid-snake.svg">
