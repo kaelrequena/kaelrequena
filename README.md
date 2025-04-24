@@ -1,4 +1,34 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19a1ee&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19a1ee&size=35&center=true&vCenter=true&width=1000&lines=Olá+Visitante!+Eu+sou+o+Matheus+Assumpção;Seja+Bem-Vindo+ao+meu+GitHub!;Olá+Visitante!+Eu+sou+o+Matheus+Assumpção;Seja+Bem-Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+<br>
+##
+
+Sou desenvolvedor fullstack com foco em back-end, com sólida experiência no desenvolvimento de APIs, aplicações web e automação de processos. Atuo em todo o ciclo de desenvolvimento, prezando por código limpo, segurança, performance e escalabilidade. Atualmente curso MBA em Engenharia de Software pela FIAP, visando crescimento técnico e estratégico para assumir desafios maiores.
+
+##
+
+## Front-End 💡
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vite,sass,js,react" />
+  </a>
+</p>
+
+## Back-End ☕
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,php,typescript,python,java,kotlin,postman,mysql,mongodb" />
+  </a>
+</p>
+
+## Outras Ferramentas 🔨
+## Conecte-se comigo 📧
+<div> 
+  <a href="https://api.whatsapp.com/send?phone=+5511945275553" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href = "mailto:matheusassumpcap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-assump%C3%A7%C3%A3o/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 # Olá, Eu sou o Kael Rodrigues Requena
 Apaixonado por tecnologia em todas as suas formas — da programação à criação de soluções em software. Amo programar, estudar, inventar e modificar ideias para torná-las realidade. Estou sempre em busca de novos conhecimentos, adoro ler e explorar o mundo viajando. Disponível para contratação e sempre aberto a novos desafios que me permitam crescer e inovar.
 
