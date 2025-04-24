@@ -1,6 +1,6 @@
 
 # Olá, Eu sou o Kael Rodrigues Requena
-Eterno explorador do mundo da tecnologia, sempre em busca de aprender algo novo a cada dia nesse universo imenso. Gamer nos momentos de lazer.
+Apaixonado por tecnologia em todas as suas formas — da programação à criação de soluções em software. Amo programar, estudar, inventar e modificar ideias para torná-las realidade. Estou sempre em busca de novos conhecimentos, adoro ler e explorar o mundo viajando. Disponível para contratação e sempre aberto a novos desafios que me permitam crescer e inovar.
 
 ## Conecte-se Comigo
 
