@@ -32,6 +32,7 @@ Apaixonado por tecnologia em todas as suas formas — da programação à criaç
 )](https://wa.me/5511965389487)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/kael-rodrigues-requena-209492252/)
+<a href = "mailto:matheusassumpcap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaelrequena&show_icons=true&theme=dark">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaelrequena&layout=compact&theme=dark">
