@@ -23,7 +23,7 @@ Apaixonado por tecnologia em todas as suas formas — da programação à criaç
 ## Outras Ferramentas 🔨
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,notion" />
   </a>
 </p>
 
