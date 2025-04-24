@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19a1ee&size=35&center=true&vCenter=true&width=1000&lines=Olá+Visitante!+Eu+sou+o+kael+requena;Seja+Bem-Vindo+ao+meu+GitHub!;Olá+Visitante!+Eu+sou+o+kael+requena;Seja+Bem-Vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 <br>
-
-# Olá, Eu sou o Kael Rodrigues Requena
 Apaixonado por tecnologia em todas as suas formas — da programação à criação de soluções em software. Amo programar, estudar, inventar e modificar ideias para torná-las realidade. Estou sempre em busca de novos conhecimentos, adoro ler e explorar o mundo viajando. Disponível para contratação e sempre aberto a novos desafios que me permitam crescer e inovar.
 
 ## Front-End 💡
