@@ -48,7 +48,7 @@ Apaixonado por tecnologia em todas as suas formas — da programação à criaç
 ##
 <div align="center">
 <br><p align="centre"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheus-Assumpcao}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kael-Requena}/count.svg" /></p> 
 <br>
 </div>
 
