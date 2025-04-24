@@ -16,7 +16,14 @@ Apaixonado por tecnologia em todas as suas formas — da programação à criaç
 ## Back-End ☕
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,typescript,sql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,typescript,mysql" />
+  </a>
+</p>
+
+## Outras Ferramentas 🔨
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker" />
   </a>
 </p>
 
