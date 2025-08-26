@@ -9,7 +9,7 @@ Apaixonado por tecnologia em todas as suas formas — da programação à criaç
 ## Front-End 💡
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vite,sass,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,vite,sass,js,react,vue" />
   </a>
 </p>
 
